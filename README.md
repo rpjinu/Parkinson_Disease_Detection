@@ -1,5 +1,8 @@
 # Parkinson_Disease_Detection
 ALL python jupyter notebook
+#image of parkinson
+<img src="https://github.com/rpjinu/Parkinson_Disease_Detection/blob/main/parkinson_image.png" width="600">
+
 Parkinson's Disease Prediction
 This project involves building a machine learning model to predict Parkinson's disease using a dataset containing various attributes related to the condition. The process includes data preprocessing, model training, saving the trained model, and testing it with new input data.
 
